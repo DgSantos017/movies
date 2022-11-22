@@ -25,6 +25,7 @@ The theory of everything
 ## Terror
 
 The Exorcist
+
 ![The Exorcist](./exorcista.jpeg)
 
 ---
@@ -32,6 +33,7 @@ The Exorcist
 ## Action
 
 Fight Club
+
 ![The fight clube](./clube.jpeg)
 
 ---
@@ -46,6 +48,7 @@ a setback
 ## War
 
 No news on Front
+
 ![No news on Front](./nada_novo.jpg)
 
 ---
@@ -75,4 +78,5 @@ Interstellar
 ## Science fiction/documentary
 
 Lost in Mars
+
 ![Lost in Mars](./perdido_marte.jpg)
