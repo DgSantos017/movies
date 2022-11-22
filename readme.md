@@ -9,7 +9,7 @@ The ice Age
 
 ## Animation
 
-Detona Ralph
+Wreck-It Ralph
 ![Detona Ralph](./detona_half.jpeg)
 
 ---
@@ -17,60 +17,62 @@ Detona Ralph
 ## Romance
 
 The theory of everything
+
 ![The theory of everything](./teoria_de_tudo.jpg)
 
 ---
 
-## Comedy
+## Terror
 
-The ice Age
-![era_do_gelo](./era_do_gelo.jpeg)
-
----
-
-## Comedy
-
-The ice Age
-![era_do_gelo](./era_do_gelo.jpeg)
+The Exorcist
+![The Exorcist](./exorcista.jpeg)
 
 ---
 
-## Comedy
+## Action
 
-The ice Age
-![era_do_gelo](./era_do_gelo.jpeg)
-
----
-
-## Comedy
-
-The ice Age
-![era_do_gelo](./era_do_gelo.jpeg)
+Fight Club
+![The fight clube](./clube.jpeg)
 
 ---
 
-## Comedy
+## Suspense
 
-The ice Age
-![era_do_gelo](./era_do_gelo.jpeg)
-
----
-
-## Comedy
-
-The ice Age
-![era_do_gelo](./era_do_gelo.jpeg)
+a setback
+![era_do_gelo](./um_contratempo.jpg)
 
 ---
 
-## Comedy
+## War
 
-The ice Age
-![era_do_gelo](./era_do_gelo.jpeg)
+No news on Front
+![No news on Front](./nada_novo.jpg)
 
 ---
 
-## Comedy
+## Drama
 
-The ice Age
-![era_do_gelo](./era_do_gelo.jpeg)
+Fear Island
+
+![Fear Island](./ilha_do_medo.jpeg)
+
+---
+
+## History
+
+The Imitation Game
+![The Imitation Game](./jogo_imitacao.jpg)
+
+---
+
+## Science fiction
+
+Interstellar
+![Interstellar](./interestelar.jpg)
+
+---
+
+## Science fiction/documentary
+
+Lost in Mars
+![Lost in Mars](./perdido_marte.jpg)
